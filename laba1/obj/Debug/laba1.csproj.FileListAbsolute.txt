@@ -1,0 +1,22 @@
+C:\Users\student\source\repos\laba1\laba1\obj\Debug\laba1.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\laba1\laba1\obj\Debug\laba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\laba1\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\laba1\laba1\bin\Debug\laba1.exe.config
+C:\Users\student\source\repos\laba1\laba1\bin\Debug\laba1.exe
+C:\Users\student\source\repos\laba1\laba1\bin\Debug\laba1.pdb
+C:\Users\student\source\repos\laba1\laba1\obj\Debug\laba1.exe
+C:\Users\student\source\repos\laba1\laba1\obj\Debug\laba1.pdb
+C:\Users\MateBook D\source\laba1\laba1\bin\Debug\laba1.exe.config
+C:\Users\MateBook D\source\laba1\laba1\bin\Debug\laba1.exe
+C:\Users\MateBook D\source\laba1\laba1\bin\Debug\laba1.pdb
+C:\Users\MateBook D\source\laba1\laba1\obj\Debug\laba1.csprojAssemblyReference.cache
+C:\Users\MateBook D\source\laba1\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+C:\Users\MateBook D\source\laba1\laba1\obj\Debug\laba1.exe
+C:\Users\MateBook D\source\laba1\laba1\obj\Debug\laba1.pdb
+C:\Users\Alexey\Desktop\RiderProjects\laba1\laba1\bin\Debug\laba1.exe.config
+C:\Users\Alexey\Desktop\RiderProjects\laba1\laba1\bin\Debug\laba1.exe
+C:\Users\Alexey\Desktop\RiderProjects\laba1\laba1\bin\Debug\laba1.pdb
+C:\Users\Alexey\Desktop\RiderProjects\laba1\laba1\obj\Debug\laba1.csprojAssemblyReference.cache
+C:\Users\Alexey\Desktop\RiderProjects\laba1\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\RiderProjects\laba1\laba1\obj\Debug\laba1.exe
+C:\Users\Alexey\Desktop\RiderProjects\laba1\laba1\obj\Debug\laba1.pdb
